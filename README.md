@@ -6,7 +6,9 @@ I will add more codes here as we publish significant results and improvements.
 The codes above uses external libraries for using Dynamixel actuators with either an Arduino or OpenCM9.04C
 
 ->https://github.com/vanadiumlabs/arbotix/tree/master/libraries/Bioloid
+
 ->https://github.com/horchler/DynamixelQ
+
 ->http://mayhewlabs.com/media/Mux_Shield_II_User_Guide.pdf
 
 1.CMMWorm_Probability_Slack_Detection_3_24 -> Works with OpenCM9.04C controller and dynamixel MX64 actuators
